@@ -1,8 +1,8 @@
 backend:
   name: github
-  repo: taegang00/cogneuro-site
+  repo: cnlab3948-droid/cogneuro-site
   branch: main
-  base_url: https://cogneuro-cms-oauth.vercel.app
+  base_url: https://cogneuro-cms-oauth-indol.vercel.app
   auth_endpoint: auth
 
 media_folder: "public/uploads"
